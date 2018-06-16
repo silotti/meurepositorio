@@ -8,6 +8,7 @@ namespace Exemplo1
 {
     public class Somar
     {
+
         static void Main(string[] args)
         {
         }
